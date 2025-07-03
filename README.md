@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3dcfbc34-7b38-4bbf-9d09-95923cdfca57)# Wildlife-Poaching-Detection
+# Wildlife-Poaching-Detection
 Wildlife Poaching Detection is a real time poaching detetction initiative, which detects poaching during day and night time as well, it was done using YOLO Model. This Project was selected by the KSCST and Karnataka Govt is funding our project.
 
 There are 3 majour tasks in this project : 
