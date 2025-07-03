@@ -3,7 +3,7 @@ Wildlife Poaching Detection is a real time poaching detetction initiative, which
 
 There are 3 majour tasks in this project : 
   I) Human Detection (for both Day and Night Time using YOLO Model)
- II) Weapon Detection (YOLO Model)
+II) Weapon Detection (YOLO Model)
 III) Animal Classification (YOLO Model, Resnet18 Model, PyTorch)
 
 To make poaching detection real time, we have used the following sensors for Hardware Setup : 
