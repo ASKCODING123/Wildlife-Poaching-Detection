@@ -2,9 +2,9 @@
 Wildlife Poaching Detection is a real time poaching detetction initiative, which detects poaching during day and night time as well, it was done using YOLO Model. This Project was selected by the KSCST and Karnataka Govt is funding our project.
 
 There are 3 majour tasks in this project : 
-  I) Human Detection (for both Day and Night Time using YOLO Model)
-II) Weapon Detection (YOLO Model)
-III) Animal Classification (YOLO Model, Resnet18 Model, PyTorch)
+ - Human Detection (for both Day and Night Time using YOLO Model)
+ - Weapon Detection (YOLO Model)
+ - Animal Classification (YOLO Model, Resnet18 Model, PyTorch)
 
 To make poaching detection real time, we have used the following sensors for Hardware Setup : 
  - PIR Sensor     : For Motion Detection
