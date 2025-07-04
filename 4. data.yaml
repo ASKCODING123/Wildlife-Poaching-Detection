@@ -1,0 +1,6 @@
+path: C:/Users/ASK/Downloads/Bow and arrow.v1i.yolov8-obb/dataset
+train: train/images
+val: train/images
+
+names: 
+  0: Bow-and-arrow
